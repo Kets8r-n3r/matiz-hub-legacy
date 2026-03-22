@@ -1,1 +1,1 @@
-# matiz-hub-legacy
+# matiz-hub-full
